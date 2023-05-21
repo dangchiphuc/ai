@@ -1,1 +1,1 @@
-# ai
+Project of AI subject.
